@@ -1,0 +1,41 @@
+{"_comments":[
+    "this is a sample json file for Reuben",
+    "below is for mutaga",
+    "and the next one is for jeremy",
+],
+}
+
+{
+    "firstName":"Reuben",
+    "lastName":"muli",
+    "gender":"male",
+    "age":"24 years",
+    "address":{
+        "streetaAddress":"134 kahawawest",
+        "city":"nairobi",
+        "state":"nairobi",
+        "postalcode":"90-200"
+    },
+    "phonenumbers":[
+        {"type":"home","number":"0708377276"}
+    ]
+}
+
+
+{
+    "firstName":"mutaga",
+    "lastName":"kihahu",
+    "gender":"male",
+    "status":"married",
+    "address":{
+        "country":"kenya",
+        "city":"nairobi",
+        "state":"nairobi",
+        "town":"nairobi west",
+        "postal code":"808080"
+    },
+    "phonenumbers":[
+        {"type":"home","number":"0788899988"}
+    ]
+}
+
