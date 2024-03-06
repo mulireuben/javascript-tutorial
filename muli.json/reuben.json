@@ -1,11 +1,4 @@
-{"_comments":[
-    "this is a sample json file for Reuben",
-    "below is for mutaga",
-    "and the next one is for jeremy",
-],
-}
-
-{
+[{
     "firstName":"Reuben",
     "lastName":"muli",
     "gender":"male",
@@ -19,10 +12,9 @@
     "phonenumbers":[
         {"type":"home","number":"0708377276"}
     ]
-}
+},
 
-
-{
+ {
     "firstName":"mutaga",
     "lastName":"kihahu",
     "gender":"male",
@@ -37,5 +29,6 @@
     "phonenumbers":[
         {"type":"home","number":"0788899988"}
     ]
-}
+  }
 
+]
